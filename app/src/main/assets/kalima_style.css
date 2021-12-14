@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    margin-top: 35px;
+    color: black;
+}
+
+.para{
+    text-align: justify;
+    font-size: 20px;
+    color: black;
+}
+.para1{
+    text-align: justify;
+    font-size: 35px;
+    color: black;
+}
+
+span{
+font-weight: bold;
+}
+
+ul li{
+font-size: 20px;
+color: black;
+}
+
+ol li{
+font-size: 20px;
+color: black;
+}
